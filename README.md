@@ -1,4 +1,5 @@
 # CustomExceptionMiddleware
+From Public to Private
 Throw custome exception
 
 Created custom ExceptionMiddleware to handle error and give response in json format which can gracefully handle on client side.
